@@ -4,7 +4,7 @@
 import express from 'express'
 import webpack from 'webpack'
 import path from 'path'
-import webpackConfig from '../webpack.config'
+import webpackConfig from '../webpack.config.babel'
 import open from 'open'
 
 
