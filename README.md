@@ -6,6 +6,7 @@ Template to build angularjs applications using TypeScript.
 
 ```
 yarn install
+yarn start
 ```
 
 ## Building for production

@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "development": "babel-node tools/server.js",
+    "start": "babel-node tools/server.js",
     "build:prod": "webpack --env.production",
     "build:watch": "webpack --colors --progress --watch --env.development",
     "test": "echo \"Error: no test specified\" && exit 1"
